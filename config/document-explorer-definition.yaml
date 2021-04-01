@@ -1,5 +1,16 @@
-toc:
-  - section:
-    - title: Getting Started
-    - link: getting-started/overview.md
-    - open: true
+sections:
+  - title: Getting Started
+    open: true
+    articles:
+      - title: Welcome to Reporting
+        link: /docs/getting-started.md
+  - title: Documentation
+    open: true
+    articles:
+      - title: Documentation
+        link: /docs/documentation.md
+  - title: Tutorials
+    open: true
+    articles:
+      - title: Tutorials
+        link: /docs/tutorials.md
